@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="#ffffff"
+    >
+   <com.bwei.haozi.wangyuhao20170509.xlistview.XListView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/fra01_xlv"
+       ></com.bwei.haozi.wangyuhao20170509.xlistview.XListView>
+   <!--<ListView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/fra_lv"
+       ></ListView>-->
+
+</LinearLayout>
